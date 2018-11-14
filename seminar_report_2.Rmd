@@ -1,0 +1,54 @@
+---
+title: "BME 4550 - Seminar Report 2"
+output: html_notebook
+---
+
+#### Name: Daniel Lowe
+
+#### Seminar Speaker's Name: Ali Guler
+
+#### Seminar Speaker's Title: Dr.
+
+#### Seminar Speaker's Affiliation: Behavior and Epigenetics Researcher at UVA 
+
+#### Date: 11/7/18
+
+#### Time: 1:00
+
+## Seminar Title: Food time and dopamine: how rewarding snacks hijack your brain
+
+## Seminar Summary:
+
+### Overarching Research Topic:
+
+#### The overall topic of the seminar was the neural link between the SCN center in the brain and dopamine signalling
+  
+### Research Question: 
+
+#### What are the effects of dopamine on the circadian rhythm 
+  
+### Methods: 
+  
+#### The author used genetically engineered mice to study this link, by using various knockout techniques in order to change the function of the SCN or dopamine signaling in the brain. Activity was monitored in day night cycles to determine the changes in the circadian rhythm based on other changes. Both capsaicin and food were used to trigger the dopamine centers in the brain. High fat diets were used to simulate human diets. The animals were shipped from the US to the Netherlands in order to initiate a shift in circadian rhythm.
+  
+### Experimental Design: 
+
+#### There were a number of sub experiments within this research. All used rates of activity during day and night cycles as the source of data. The first involved mice in which light sensing nerves in the eyes that connected to the SCN were knocked out. They were compared to wild type mice, and the results showed that the SCN did in fact play a role in the circadian rhythm. Then mice that produced dopamine when injected with capsaicin were used to test the effect of dopamine on activity during different period of time. This showed that dopamine plays a role in shifting activity patterns and the circadian. Finally, high fat diets were used to understand if activity was changed by the release of dopamine associated with rewarding foods.
+  
+#### Is the research relevant to your project?: The research was relevant to my project, in that it  showed that high fat diets in rats is a often used technique to simulate human behavior and bodily reactions. However there was no analysis of microbiome data in this project
+
+### Question 1 addressedtowards speaker: 
+
+#### What other nerve pathways seem to connect to the SCN and could affect circadian rhythm?
+
+### Question 2 addresssed towards speaker: 
+
+#### What statistical methods were used to analyze the activity data and how could they be more broadly applied to medical research
+  
+### Take-home: 
+
+#### There are a number of interesting links to the circadian rhythm within the brain, and mouse models with activity data tracking is an effective way of exploring this data.
+
+### Closing Statement: 
+
+#### This project was very impressive, it took an in depth look at a complicated neural network, and produced a set of very convincing results. The data was presented in a clear fashion, and the analysis was easy to understand while also being insightful. The speaker also successfully connected the results to possible real world applications in an effective fashion.
